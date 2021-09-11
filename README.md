@@ -1,4 +1,4 @@
-** #Challenge_11**
+# Challenge_11
 
 
 **Background**
@@ -48,7 +48,7 @@ I produced a time series model that analyzes and forecasts patterns in the hourl
 2. After I estimated the model, then I plotted the forecast. 
 3. I plotted the individual time series components of the model 
 ***
-**Step 5(Optional): Forecast Revenue by Using Time Series Models**
+**Step 5: Forecast Revenue by Using Time Series Models**
 
 A few weeks after my initial analysis, the finance group follows up to find out if I can help them solve a different problem. 
 Specifically, the finance group wants a forecast of the total sales for the next quarter. This will dramatically increase their ability to plan budgets and to help guide expectations for the company investors.
